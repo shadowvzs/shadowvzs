@@ -21,17 +21,13 @@ JASS was a revolutionary improvement in map generation, based on events/trigger/
 Since that I started multiple fun project, and you are welcome to check them out [here](https://github.com/shadowvzs)
 
 #### Example:
- * [Dots - 2022](https://shadowvzs.github.io/dots/)
- * [ES6 modules with Mk items (test) - 2022](https://shadowvzs.github.io/mk-items/)
  * [Map (area) vs Svg (polygon) - 2019](https://shadowvzs.github.io/svg-polygon/)
  * [PWM - S. Books - 2019](https://shadowvzs.github.io/pwm-sb/)
  * [Ray Casting - 2019](https://shadowvzs.github.io/rayCasting/)
  * [File Reader Test - 2018](https://shadowvzs.github.io/file-reader/)
- * [Architectural Pattern - 2018](https://shadowvzs.github.io/architectural-pattern/)
  * [Frogger with Canvas - 2018](https://shadowvzs.github.io/arcade/)
  * [VirtualOS - 2018](https://shadowvzs.github.io/virtualos/)
- * [Audioplayer v1 - 2018](https://shadowvzs.github.io/audioplayer)
- * [Audioplayer v2 - 2018](https://shadowvzs.github.io/audioplayer/advanced)
+ * [Audioplayer - 2018](https://shadowvzs.github.io/audioplayer/advanced)
  * [Notify - 2018](https://shadowvzs.github.io/notify)
  * [Event Calendar - 2018](https://shadowvzs.github.io/calendar)
  * [Custom Scrollbar - 2018](https://shadowvzs.github.io/custom_v_scrollbar)
