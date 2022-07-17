@@ -1,8 +1,72 @@
 ### Hi, I am Zsolt 👋
 
+
+![This is an image](https://avatars.githubusercontent.com/u/17709504?s=400&u=bc3401ab38916c68f8bee1fbd2c6a63038a34c61&v=4)
+
 I'm a software engineer who is passionate about using JavaScript, newer technologies, and interesting architectures on frontend but let's go back a bit in time on my timeline because this was a long journey and officially started only in 2018 January (wasted a lot of time in my early life on video games), but what happened before:
 
-### My Timeline:
+### My Timeline (Descending)
+
+#### Episode 3: Tech hungriness
+ * [Electron '22](https://github.com/shadowvzs/electron)
+    * Tech: Docker, NodeJS (Express+Typescript), Electron (can build standalone app), React, TypeScript, MobX, JSS/styled component, CacheStorage, ServiceFactory, DependencyInjection (inversify+reflect metadata), Webpack
+ * [Gyozelem v2 '21](https://github.com/shadowvzs/gyozelem2)
+    * Tech: StencilJS, TypeScript, .net Code, EF Core, SignalR, Virtual File System
+ * [PetraJS '20](https://github.com/shadowvzs/petraJS)
+    * Tech: Webpack, Babel (for resolving the custom JSX rendering), Appache2 for frontend routing, class validator
+    * Demo: [YouTube video](https://www.youtube.com/watch?v=wQ3fWnJ3C70)
+    * Description: My own mini virtual dom render library with JSX fucntional components and with hooks (ReactJS like elements and hooks without ReactJS)
+ * [Twitter Tweets - '19](https://github.com/shadowvzs/twitter-tweets)
+     * Tech: Docker, Ubuntu, NodeJS (Express), CSS variables for page theme, JS (ES7)
+     * Demo: [YouTube video](https://www.youtube.com/watch?v=_Cw6tPMWiT4)
+ * [Hapi + Mongo - '19](https://github.com/shadowvzs/hapi-mongo)
+     * Tech: Docker, NodeJS (Hapi) - server side rendering, MongoDB
+     * Demo: [YouTube video](https://www.youtube.com/watch?v=gqQ_bPn8niY)
+ * [React + Redux - '19](https://github.com/shadowvzs/react-shop)
+     * Tech: React, Redux
+ * [Pure SPA '19](https://github.com/shadowvzs/SPA)
+     * Tech: pure JS (audioplayer, context menu, async/await, file upload with chunks, calendar, custom js router), CSS3, HTML, PHP with appache url rewrite, MySQL
+     * Demo: [Online website](https://gyozelem.ro/)
+ * [Data ordering '19](https://github.com/shadowvzs/sort-table)
+     * Tech: CakePHP 3.7, MySQL, jQuery
+     * Demo: [YouTube video](https://www.youtube.com/watch?v=56bToLILT7E)
+ * [GraphQL '19](https://github.com/shadowvzs/graphQL)
+     * Tech: Docker, NodeJS, Mongoose, JWT, bcrypt, GraphQL, ReactJS
+ * [Kanban '19](https://github.com/shadowvzs/kanban)
+     * Tech: ReactJS, TypeScript, Material UI, NodeJS (Express), Webpack-cli
+     * Demo: [YouTube video](https://www.youtube.com/watch?v=pit07rnM9wM)
+ * [SimpleShop with Laravel' 18](https://github.com/shadowvzs/SimpleShop)
+     * Tech: Laravel 5.6 (with migration), MySQL, JS, CSS
+     * Demo: [YouTube video](https://www.youtube.com/watch?v=wIVa8VfE7oc)
+
+#### Episode 2: My web development milestone
+**Tech stack:** *JS (ES5/ES6, Module, Audio, FileReader, URL, Virtual FileSystem/OS,SVG, Area, DOM), CSS3 (custom scroll design), HTML5 (canvas), PHP 7 (SQL query building), Appache (.htaccess - url rewrite), NodeJs (web socket, byte packing and sending) *
+##### Docs:
+ * [TypeScript](https://github.com/shadowvzs/typescript)
+ * [JS Features: Doc & Code](https://github.com/shadowvzs/Javascript)
+##### Demos:
+ * [Map (area) vs Svg (polygon) - 2019](https://shadowvzs.github.io/svg-polygon/)
+ * [Ray Casting - 2019](https://shadowvzs.github.io/rayCasting/)
+ * [File Reader Test - 2018](https://shadowvzs.github.io/file-reader/)
+ * [Frogger with Canvas - 2018](https://shadowvzs.github.io/arcade/)
+ * [VirtualOS - 2018](https://shadowvzs.github.io/virtualos/)
+ * [Audioplayer - 2018](https://shadowvzs.github.io/audioplayer/advanced)
+ * [Notify - 2018](https://shadowvzs.github.io/notify)
+ * [Event Calendar - 2018](https://shadowvzs.github.io/calendar)
+ * [Custom Scrollbar - 2018](https://shadowvzs.github.io/custom_v_scrollbar)
+ * [Infinite Scroll - 2018](https://shadowvzs.github.io/infinityscroll)
+ * [Windows - 2017](https://shadowvzs.github.io/windows)
+ * [Blog without Backend & DB - 2017](https://shadowvzs.github.io/smartboard)
+##### Codes:
+ * [Generic Table with ES6 Module](https://github.com/shadowvzs/generic-table-vanilla-js)
+ * [Simple Query Builder - PHP](https://github.com/shadowvzs/query-builder)
+ * [Preview Image Generator](https://github.com/shadowvzs/preview-generator)
+ * [Vanilla JS router wtih htacces](https://github.com/shadowvzs/js-router)
+ * [NodeJS Write/Read byte packets](https://github.com/shadowvzs/pwTools)
+ * [Chat with NodeJS + WS](https://github.com/shadowvzs/chat)
+ 
+#### Episode 1: The journey begins
+**Tech stack:** *QBasic, Visual Basic, Wap, JASS, PHP (data packing/socket), JS, CSS, HTML, MySQL, ubuntu*
 - '98 and early '00: I started to play with [QBasic](https://en.wikipedia.org/wiki/QBasic)
    - I did snake, asteroid hunter, ping pong like mini-games, creating blur/grayscale effects with pixel color calculation and some other thing, but it was just for fun, only for learning
 - Early '00: Another fun time was the HexView period when we edited the save game files with **HexEditor**
@@ -17,23 +81,8 @@ JASS was a revolutionary improvement in map generation, based on events/trigger/
 - '16: [Perfect World](https://en.wikipedia.org/wiki/Perfect_World_(video_game)) Server + [Item Builder](https://github.com/shadowvzs/pwAdmin): 
    - First time when i met with ubuntu (was love in first sight) and installed a game into virtualBox ubuntu server, used MySQL, apache, tomcat, first time when i comunicated with server via PHP and socket, it was a fun project but better if I show the video about 
        - Where I started the [PHP pwAdmin](https://forum.ragezone.com/f752/php-based-pwadmin-1122225/) and [video](https://www.youtube.com/watch?v=if9Y9zaPHDQ) for it, later I shared the code on [GitHub](https://github.com/shadowvzs/pwAdmin) (well, I was a noob, it was poorly coded, but I learned a lot from it)
-       
-Since that I started multiple fun project, and you are welcome to check them out [here](https://github.com/shadowvzs)
 
-#### Example:
- * [Map (area) vs Svg (polygon) - 2019](https://shadowvzs.github.io/svg-polygon/)
- * [PWM - S. Books - 2019](https://shadowvzs.github.io/pwm-sb/)
- * [Ray Casting - 2019](https://shadowvzs.github.io/rayCasting/)
- * [File Reader Test - 2018](https://shadowvzs.github.io/file-reader/)
- * [Frogger with Canvas - 2018](https://shadowvzs.github.io/arcade/)
- * [VirtualOS - 2018](https://shadowvzs.github.io/virtualos/)
- * [Audioplayer - 2018](https://shadowvzs.github.io/audioplayer/advanced)
- * [Notify - 2018](https://shadowvzs.github.io/notify)
- * [Event Calendar - 2018](https://shadowvzs.github.io/calendar)
- * [Custom Scrollbar - 2018](https://shadowvzs.github.io/custom_v_scrollbar)
- * [Infinite Scroll - 2018](https://shadowvzs.github.io/infinityscroll)
- * [Windows - 2017](https://shadowvzs.github.io/windows)
- * [Smartboard - 2017](https://shadowvzs.github.io/smartboard)
+ * 
 <!--
 **shadowvzs/shadowvzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
