@@ -39,8 +39,8 @@ I'm a software engineer who is passionate about using JavaScript, newer technolo
      * Tech: Laravel 5.6 (with migration), MySQL, JS, CSS
      * Demo: [YouTube video](https://www.youtube.com/watch?v=wIVa8VfE7oc)
 
-#### Episode 2: My web development milestone
-**Tech stack:** *JS (ES5/ES6, Module, Audio, FileReader, URL, Virtual FileSystem/OS,SVG, Area, DOM), CSS3 (custom scroll design), HTML5 (canvas), PHP 7 (SQL query building), Appache (.htaccess - url rewrite), NodeJs (web socket, byte packing and sending) *
+#### Episode 2: My web development milestone - started my first job, like php developer 
+**Tech stack:** *JS (ES5/ES6, Module, Audio, FileReader, URL, Virtual FileSystem/OS,SVG, Area, DOM, sprite images), CSS3 (custom scroll design), HTML5 (canvas), PHP 7 (SQL query building), Appache (.htaccess - url rewrite), NodeJs (web socket, byte packing and sending) *
 ##### Docs:
  * [TypeScript](https://github.com/shadowvzs/typescript)
  * [JS Features: Doc & Code](https://github.com/shadowvzs/Javascript)
