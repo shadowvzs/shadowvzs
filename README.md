@@ -2,6 +2,7 @@
 
 I'm a software engineer who is passionate about using JavaScript, newer technologies, and interesting architectures on frontend but let's go back a bit in time on my timeline because this was a long journey and officially started only in 2018 January (wasted a lot of time in my early life on video games), but what happened before:
 
+### My Timeline:
 - '98 and early '00: I started to play with [QBasic](https://en.wikipedia.org/wiki/QBasic)
    - I did snake, asteroid hunter, ping pong like mini-games, creating blur/grayscale effects with pixel color calculation and some other thing, but it was just for fun, only for learning
 - Early '00: Another fun time was the HexView period when we edited the save game files with **HexEditor**
@@ -19,7 +20,7 @@ JASS was a revolutionary improvement in map generation, based on events/trigger/
        
 Since that I started multiple fun project, and you are welcome to check them out [here](https://github.com/shadowvzs)
 
-Example:
+#### Example:
  * [Dots - 2022](https://shadowvzs.github.io/dots/)
  * [ES6 modules with Mk items (test) - 2022](https://shadowvzs.github.io/mk-items/)
  * [Map (area) vs Svg (polygon) - 2019](https://shadowvzs.github.io/svg-polygon/)
