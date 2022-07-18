@@ -3,11 +3,11 @@
 
 ![This is an image](https://avatars.githubusercontent.com/u/17709504?s=400&u=bc3401ab38916c68f8bee1fbd2c6a63038a34c61&v=4)
 
-I'm a software engineer who is passionate about using JavaScript, newer technologies, and interesting architectures on frontend but let's go back a bit in time on my timeline because this was a long journey and officially started only in 2018 January (wasted a lot of time in my early life on video games), but what happened before:
+I'm a software engineer who is passionate about using JavaScript, newer technologies, and interesting architectures on frontend but let's go back a bit in time on my timeline because this was a long journey and officially started only in 2018 January (wasted a lot of time in my early life on video games), but let's go step by step.
 
 ---------------------------
 
-### My For Fun Projects
+### ✨ My For Fun Projects ✨
 *They was created in my free time, for my own fun*
 
 | Name          | Description   | Video |
@@ -18,14 +18,17 @@ I'm a software engineer who is passionate about using JavaScript, newer technolo
 
 ---------------------------
 
-### My Timeline, my journey like hobby developer
-*(starting from most recent)*
-
-#### Job tech timeline:
+### 👯 Job tech timeline:
 * 2018-2019 - cakePHP, gitLab, jQuery, bootstrap, MySQL
 * 2019-present - ReactJS, TypeScript, AngularJS, Material UI, MobX, SignalR, C#, NPM, Jira, Bitbucket
 
-#### Episode 3: Tech hungriness
+---------------------------
+
+
+### 🌱 My Timeline, my journey like hobby developer 🌱
+*(starting from most recent)*
+
+#### 🐦 Episode 3: Tech hungriness
  * [Electron '22](https://github.com/shadowvzs/electron)
     * Tech: Docker, NodeJS (Express+Typescript), Electron (can build standalone app), React, TypeScript, MobX, JSS/styled component, CacheStorage (storing data in cache like JSON blob), ServiceFactory, DependencyInjection (inversify+reflect metadata), Webpack
  * [Gyozelem v2 '21](https://github.com/shadowvzs/gyozelem2)
@@ -57,7 +60,7 @@ I'm a software engineer who is passionate about using JavaScript, newer technolo
      * Tech: Laravel 5.6 (with migration), MySQL, JS, CSS
      * Demo: [YouTube video](https://www.youtube.com/watch?v=wIVa8VfE7oc)
 
-#### Episode 2: My web development milestone - started my first job, like php developer 
+#### 🐜 Episode 2: My web development milestone - started my first job, like php developer 
 **Tech stack:** *JS (ES5/ES6, Module, Audio, FileReader, URL, Virtual FileSystem/OS,SVG, Area, DOM, sprite images), CSS3 (custom scroll design), HTML5 (canvas), PHP 7 (SQL query building), Appache (.htaccess - url rewrite), NodeJs (web socket, byte packing and sending) *
 ##### Docs:
  * [TypeScript](https://github.com/shadowvzs/typescript)
@@ -83,7 +86,7 @@ I'm a software engineer who is passionate about using JavaScript, newer technolo
  * [NodeJS Write/Read byte packets](https://github.com/shadowvzs/pwTools)
  * [Chat with NodeJS + WS](https://github.com/shadowvzs/chat)
  
-#### Episode 1: The journey begins
+#### 🐌 Episode 1: The journey begins
 **Tech stack:** *QBasic, Visual Basic, Wap, JASS, PHP (data packing/socket), JS, CSS, HTML, MySQL, ubuntu*
 - '98 and early '00: I started to play with [QBasic](https://en.wikipedia.org/wiki/QBasic)
    - I did snake, asteroid hunter, ping pong like mini-games, creating blur/grayscale effects with pixel color calculation and some other thing, but it was just for fun, only for learning
@@ -100,7 +103,9 @@ JASS was a revolutionary improvement in map generation, based on events/trigger/
    - First time when i met with ubuntu (was love in first sight) and installed a game into virtualBox ubuntu server, used MySQL, apache, tomcat, first time when i comunicated with server via PHP and socket, it was a fun project but better if I show the video about 
        - Where I started the [PHP pwAdmin](https://forum.ragezone.com/f752/php-based-pwadmin-1122225/) and [video](https://www.youtube.com/watch?v=if9Y9zaPHDQ) for it, later I shared the code on [GitHub](https://github.com/shadowvzs/pwAdmin) (well, I was a noob, it was poorly coded, but I learned a lot from it)
 
- * 
+-------------------------
+Many thanks for my 👪 and to God, for having a chance to learn :) 
+ 
 <!--
 **shadowvzs/shadowvzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
