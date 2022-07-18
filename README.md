@@ -25,7 +25,7 @@ I'm a software engineer who is passionate about using JavaScript, newer technolo
 ---------------------------
 
 
-### 🌱 My Timeline, my journey like hobby developer 🌱
+### 🌱 My Timeline, my journey (like hobby developer) 🌱
 *(starting from most recent)*
 
 #### 🐦 Episode 3: Tech hungriness
