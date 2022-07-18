@@ -3,7 +3,7 @@
 
 ![This is an image](https://avatars.githubusercontent.com/u/17709504?s=400&u=bc3401ab38916c68f8bee1fbd2c6a63038a34c61&v=4)
 
-I'm a software engineer who is passionate about using JavaScript, newer technologies, and interesting architectures on frontend. I know I have many things to learn, but this is so exciting journey.
+I'm a software engineer who is passionate about using JavaScript, newer technologies, and interesting architectures on frontend. I know I have many things to learn, but this is so exciting **journey**.
 
 ---------------------------
 
@@ -12,22 +12,22 @@ I'm a software engineer who is passionate about using JavaScript, newer technolo
 
 | Name          | Description   | Video |
 | ------------- |:-------------:| -----:|
-| Virtual OS    | Virtual OS similator, startmenu, panel/window system (grouped, minimizable, dragable, focusable etc), data on frontend in JSON form etc | [![Youtube](https://img.youtube.com/vi/MmRIz1DIXpw/0.jpg)](https://www.youtube.com/watch?v=MmRIz1DIXpw) [Second video](https://www.youtube.com/watch?v=JaySne9o-Mw) |
-| SPA           | My first SPA, without any library, with context menu, upload chunks, messaging  |  [![Youtube](https://img.youtube.com/vi/fczq-wxB0kA/0.jpg)](https://www.youtube.com/watch?v=fczq-wxB0kA) [Second video](https://www.youtube.com/watch?v=-gvEvySDRqQ) |
-| Perfect World | I Used PHP also rewrote into NodeJS, item building based on some data structure and communication with game server via socket | [![Youtube](https://img.youtube.com/vi/8ol53henQ08/0.jpg)](https://www.youtube.com/watch?v=8ol53henQ08?t=154) |
+| **Virtual OS**    | Virtual OS similator, startmenu, panel/window system (grouped, minimizable, dragable, focusable etc), data on frontend in JSON form etc | [![Youtube](https://img.youtube.com/vi/MmRIz1DIXpw/0.jpg)](https://www.youtube.com/watch?v=MmRIz1DIXpw) [Second video](https://www.youtube.com/watch?v=JaySne9o-Mw) |
+| **SPA**           | My first SPA, without any library, with context menu, upload chunks, messaging  |  [![Youtube](https://img.youtube.com/vi/fczq-wxB0kA/0.jpg)](https://www.youtube.com/watch?v=fczq-wxB0kA) [Second video](https://www.youtube.com/watch?v=-gvEvySDRqQ) |
+| **Perfect World - Item Builder** | I Used PHP also rewrote into NodeJS, item building based on some data structure and communication with game server via socket | [![Youtube](https://img.youtube.com/vi/8ol53henQ08/0.jpg)](https://www.youtube.com/watch?v=8ol53henQ08?t=154) |
 
 ---------------------------
 
 ### 👯 Job tech timeline:
-* 2018-2019 - cakePHP, gitLab, jQuery, bootstrap, MySQL
-* 2019-present - ReactJS, TypeScript, AngularJS, Material UI, MobX, SignalR, C#, NPM, Jira, Bitbucket
+I started officially in 2018 as a web developer, but I have a longer history :)
+* **2018 - 2019**: cakePHP, gitLab, jQuery, bootstrap, MySQL
+* **2019 - now**: ReactJS, TypeScript, AngularJS, Material UI, MobX, SignalR, C#, NPM, Jira, Bitbucket
 
 ---------------------------
 
 
-### 🌱 My Timeline, my journey (like hobby developer) 🌱
-*Let's go back a bit in time on my timeline because this was a long journey and officially started only in 2018 January (wasted a lot of time in my early life on video games), but let's go step by step*
-*(starting from most recent)*
+### 🌱 My Timeline, my journey *(like hobby developer)* 🌱
+*Let's go back a bit in the time on my timeline because this was a long journey, starting from the most recent*
 
 #### 🐦 Episode 3: Tech hungriness
  * [Electron '22](https://github.com/shadowvzs/electron)
