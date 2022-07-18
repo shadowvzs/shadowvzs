@@ -12,7 +12,7 @@ I'm a software engineer who is passionate about using JavaScript, newer technolo
 
 | Name          | Description   | Video |
 | ------------- |:-------------:| -----:|
-| **Virtual OS**    | Virtual OS similator, startmenu, panel/window system (grouped, minimizable, dragable, focusable etc), data on frontend in JSON form etc | [![Youtube](https://img.youtube.com/vi/MmRIz1DIXpw/0.jpg)](https://www.youtube.com/watch?v=MmRIz1DIXpw) [Second video](https://www.youtube.com/watch?v=JaySne9o-Mw) |
+| **Virtual OS**    | OS simulator, startmenu, panel/window system (grouped, minimizable, dragable, focusable etc), data on frontend in JSON form etc | [![Youtube](https://img.youtube.com/vi/MmRIz1DIXpw/0.jpg)](https://www.youtube.com/watch?v=MmRIz1DIXpw) [Second video](https://www.youtube.com/watch?v=JaySne9o-Mw) |
 | **SPA**           | My first SPA, without any library, with context menu, upload chunks, messaging  |  [![Youtube](https://img.youtube.com/vi/fczq-wxB0kA/0.jpg)](https://www.youtube.com/watch?v=fczq-wxB0kA) [Second video](https://www.youtube.com/watch?v=-gvEvySDRqQ) |
 | **Perfect World - Item Builder** | I Used PHP also rewrote into NodeJS, item building based on some data structure and communication with game server via socket | [![Youtube](https://img.youtube.com/vi/8ol53henQ08/0.jpg)](https://www.youtube.com/watch?v=8ol53henQ08?t=154) |
 
