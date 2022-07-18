@@ -5,17 +5,35 @@
 
 I'm a software engineer who is passionate about using JavaScript, newer technologies, and interesting architectures on frontend but let's go back a bit in time on my timeline because this was a long journey and officially started only in 2018 January (wasted a lot of time in my early life on video games), but what happened before:
 
-### My Timeline (Descending)
+---------------------------
+
+### My For Fun Projects
+*They was created in my free time, for my own fun*
+
+| Name          | Description   | Video |
+| ------------- |:-------------:| -----:|
+| Virtual OS    | Virtual OS similator, startmenu, panel/window system (grouped, minimizable, dragable, focusable etc), data on frontend in JSON form etc | [![Youtube](https://img.youtube.com/vi/MmRIz1DIXpw/0.jpg)](https://www.youtube.com/watch?v=MmRIz1DIXpw) [Second video](https://www.youtube.com/watch?v=JaySne9o-Mw) |
+| SPA           | My first SPA, without any library, with context menu, upload chunks, messaging  |  [![Youtube](https://img.youtube.com/vi/fczq-wxB0kA/0.jpg)](https://www.youtube.com/watch?v=fczq-wxB0kA) [Second video](https://www.youtube.com/watch?v=-gvEvySDRqQ) |
+| Perfect World | I Used PHP also rewrote into NodeJS, item building based on some data structure and communication with game server via socket | [![Youtube](https://img.youtube.com/vi/8ol53henQ08/0.jpg)](https://www.youtube.com/watch?v=8ol53henQ08?t=154) |
+
+---------------------------
+
+### My Timeline, my journey like hobby developer
+*(starting from most recent)*
+
+#### Job tech timeline:
+* 2018-2019 - cakePHP, gitLab, jQuery, bootstrap, MySQL
+* 2019-present - ReactJS, TypeScript, AngularJS, Material UI, MobX, SignalR, C#, NPM, Jira, Bitbucket
 
 #### Episode 3: Tech hungriness
  * [Electron '22](https://github.com/shadowvzs/electron)
-    * Tech: Docker, NodeJS (Express+Typescript), Electron (can build standalone app), React, TypeScript, MobX, JSS/styled component, CacheStorage, ServiceFactory, DependencyInjection (inversify+reflect metadata), Webpack
+    * Tech: Docker, NodeJS (Express+Typescript), Electron (can build standalone app), React, TypeScript, MobX, JSS/styled component, CacheStorage (storing data in cache like JSON blob), ServiceFactory, DependencyInjection (inversify+reflect metadata), Webpack
  * [Gyozelem v2 '21](https://github.com/shadowvzs/gyozelem2)
     * Tech: StencilJS, TypeScript, .net Code, EF Core, SignalR, Virtual File System
  * [PetraJS '20](https://github.com/shadowvzs/petraJS)
-    * Tech: Webpack, Babel (for resolving the custom JSX rendering), Appache2 for frontend routing, class validator
+    * Tech: Webpack, Babel (for resolving the custom JSX rendering), VDOM, Appache2 for frontend routing, class validator
     * Demo: [YouTube video](https://www.youtube.com/watch?v=wQ3fWnJ3C70)
-    * Description: My own mini virtual dom render library with JSX fucntional components and with hooks (ReactJS like elements and hooks without ReactJS)
+    * Description: My own mini virtual dom render library with JSX fucntional components and with hooks (ReactJS like elements and hooks without ReactJS), it was created to understand more the Virtual DOM based libs
  * [Twitter Tweets - '19](https://github.com/shadowvzs/twitter-tweets)
      * Tech: Docker, Ubuntu, NodeJS (Express), CSS variables for page theme, JS (ES7)
      * Demo: [YouTube video](https://www.youtube.com/watch?v=_Cw6tPMWiT4)
