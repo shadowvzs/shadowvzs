@@ -3,7 +3,7 @@
 
 ![This is an image](https://avatars.githubusercontent.com/u/17709504?s=400&u=bc3401ab38916c68f8bee1fbd2c6a63038a34c61&v=4)
 
-I'm a software engineer who is passionate about using JavaScript, newer technologies, and interesting architectures on frontend but let's go back a bit in time on my timeline because this was a long journey and officially started only in 2018 January (wasted a lot of time in my early life on video games), but let's go step by step.
+I'm a software engineer who is passionate about using JavaScript, newer technologies, and interesting architectures on frontend. I know I have many things to learn, but this is so exciting journey.
 
 ---------------------------
 
@@ -26,6 +26,7 @@ I'm a software engineer who is passionate about using JavaScript, newer technolo
 
 
 ### 🌱 My Timeline, my journey (like hobby developer) 🌱
+*Let's go back a bit in time on my timeline because this was a long journey and officially started only in 2018 January (wasted a lot of time in my early life on video games), but let's go step by step*
 *(starting from most recent)*
 
 #### 🐦 Episode 3: Tech hungriness
